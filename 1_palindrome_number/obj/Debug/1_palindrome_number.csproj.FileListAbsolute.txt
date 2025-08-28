@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\bin\Debug\1_palindrome_number.exe.config
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\bin\Debug\1_palindrome_number.exe
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\bin\Debug\1_palindrome_number.pdb
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\obj\Debug\1_palindrome_number.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\obj\Debug\1_palindrome_number.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\obj\Debug\1_palindrome_number.exe
+C:\Users\hp\Desktop\Logical Coding Programs\1_palindrome_number\obj\Debug\1_palindrome_number.pdb
